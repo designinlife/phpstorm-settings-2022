@@ -1,0 +1,27 @@
+# General
+env/
+env*
+dist/
+build/
+
+# NodeJS
+node_modules/
+*.egg
+*.egg-info/
+_mailinglist
+.tox/
+.cache/
+.idea/
+docs/_build/
+
+# Composer
+vendor/
+composer.lock
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
+.DS_Store
+.env
