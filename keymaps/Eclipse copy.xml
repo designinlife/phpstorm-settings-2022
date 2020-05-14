@@ -2,6 +2,9 @@
   <action id="CopyAction">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="CopyPathFromRepositoryRootProvider">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindNext" />
   <action id="ParameterInfo">
