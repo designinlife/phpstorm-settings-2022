@@ -9,6 +9,9 @@
     <option name="FONT_FAMILY" value="Sarasa Fixed SC" />
     <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei UI" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
