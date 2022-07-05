@@ -6,7 +6,7 @@
         <removed pattern="" />
       </blacklist>
     </blacklists>
-    <option id="php.show.names.for.all.args" value="true" />
+    <option id="php.pass.by.reference" value="false" />
     <disabledLanguages>
       <language id="PHP" />
     </disabledLanguages>
